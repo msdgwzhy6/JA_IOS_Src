@@ -1,0 +1,56 @@
+Android 开源库获取途径整理
+
+介绍目前收藏 Android 开源库比较多的 GitHub 项目、网站、Twitter、App 及如何获取最新的 Android 开源库。
+1. GitHub
+
+Android开源项目分类汇总 Android 优秀开源项目实现原理解析
+
+AndroidElementals
+
+西班牙一工程师整理的，目前项目数量和介绍上与 Android 开源项目汇总 还有一定差距 最后别忘记了 Google，只要你要，它肯定有。
+
+2.网站
+
+Android Arsenal
+
+囊括最多库的网站，支持分类和查找选择
+
+Android Libraries and Resources
+
+最大的特点是按照“标签”区分，支持标题、标签、作者、关键字搜索 上面两个网站的源码也托管在了 GitHub 上
+
+ios winPhone Android
+
+三个平台开源库整理
+
+3.Twitter Weibo
+
+AndroidArsenal@Twitter 爱开发社区@微博
+
+4.App
+
+Libraries for developers
+
+DevAppsDirect
+
+23code-android
+
+以上三个都是开源库汇总的 App，Libraries for developers 和 DevAppsDirect 为开发必备。
+
+5.其他
+
+GoogleCode 托管在 Google Code 的项目，目前大多数在 GitHub 上都有副本
+
+Android-Weekly
+
+Android周刊
+
+6 .如何获取最新开源库
+
+android-dev-com
+
+android-dev-cn
+
+github汇总，每天从feed里面看动态即可
+
+转载自Trinea
